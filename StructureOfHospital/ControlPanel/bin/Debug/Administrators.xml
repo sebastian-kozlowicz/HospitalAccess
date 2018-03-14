@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfAdministrator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Administrator>
+    <Name>Jan</Name>
+    <Surname>Kowalski</Surname>
+    <Pesel>90090515836</Pesel>
+    <Username>admin</Username>
+    <Password>admin</Password>
+  </Administrator>
+  <Administrator>
+    <Name>Szymon</Name>
+    <Surname>Domański</Surname>
+    <Pesel>81100216357</Pesel>
+    <Username>szymex</Username>
+    <Password>123456</Password>
+  </Administrator>
+</ArrayOfAdministrator>

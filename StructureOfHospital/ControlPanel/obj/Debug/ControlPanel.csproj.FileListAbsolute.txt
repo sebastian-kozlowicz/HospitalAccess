@@ -1,0 +1,17 @@
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\bin\Debug\ControlPanel.exe.config
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\bin\Debug\ControlPanel.exe
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\bin\Debug\ControlPanel.pdb
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\bin\Debug\StructureOfHospital.dll
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\bin\Debug\StructureOfHospital.pdb
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.csprojResolveAssemblyReference.cache
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.pdb
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\bin\Debug\ControlPanel.exe.config
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\bin\Debug\ControlPanel.exe
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\bin\Debug\ControlPanel.pdb
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\bin\Debug\StructureOfHospital.dll
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\bin\Debug\StructureOfHospital.pdb
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.csprojResolveAssemblyReference.cache
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.csproj.CoreCompileInputs.cache
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.exe
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\ControlPanel\obj\Debug\ControlPanel.pdb

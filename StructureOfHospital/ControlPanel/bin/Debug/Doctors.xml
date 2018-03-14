@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctor>
+    <Name>Oliwier</Name>
+    <Surname>Zawadzki</Surname>
+    <Pesel>90080517455</Pesel>
+    <Username>oli</Username>
+    <Password>oliwierro</Password>
+    <Specialty>Kardiolog</Specialty>
+    <Pzw>5834923</Pzw>
+  </Doctor>
+  <Doctor>
+    <Name>Dawid</Name>
+    <Surname>Woźniak</Surname>
+    <Pesel>67040500538</Pesel>
+    <Username>doctor</Username>
+    <Password>doctor</Password>
+    <Specialty>Kardiolog</Specialty>
+    <Pzw>8236290</Pzw>
+  </Doctor>
+</ArrayOfDoctor>

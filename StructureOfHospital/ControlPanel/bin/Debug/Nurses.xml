@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfNurse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nurse>
+    <Name>Maria</Name>
+    <Surname>Brzozowska</Surname>
+    <Pesel>92071314764</Pesel>
+    <Username>brzozka</Username>
+    <Password>123456</Password>
+  </Nurse>
+  <Nurse>
+    <Name>Klaudia</Name>
+    <Surname>Wilk</Surname>
+    <Pesel>80072909146</Pesel>
+    <Username>nurse</Username>
+    <Password>nurse</Password>
+  </Nurse>
+</ArrayOfNurse>

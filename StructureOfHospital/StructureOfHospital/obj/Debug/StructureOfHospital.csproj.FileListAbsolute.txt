@@ -1,0 +1,11 @@
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\StructureOfHospital\bin\Debug\StructureOfHospital.dll
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\StructureOfHospital\bin\Debug\StructureOfHospital.pdb
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.csprojResolveAssemblyReference.cache
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.dll
+C:\Users\User-PC\documents\visual studio 2012\Projects\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.pdb
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\StructureOfHospital\bin\Debug\StructureOfHospital.dll
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\StructureOfHospital\bin\Debug\StructureOfHospital.pdb
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.csprojResolveAssemblyReference.cache
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.csproj.CoreCompileInputs.cache
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.dll
+D:\EMTEC\WSB\Programowanie obiektowe\projekt\StructureOfHospital\StructureOfHospital\obj\Debug\StructureOfHospital.pdb
